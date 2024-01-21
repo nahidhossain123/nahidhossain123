@@ -1,4 +1,4 @@
-![MasterHead](./banner.jpeg)
+![MasterHead](./banner-image.jpeg)
 <h1 align="center">Hi 👋, I'm Nahid Hossain</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img
