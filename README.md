@@ -1,4 +1,4 @@
-[![MasterHead](./banner.jpeg)]
+![MasterHead](./banner.jpeg)
 <h1 align="center">Hi 👋, I'm Nahid Hossain</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img
@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/nahid-hossain-05" target="blank"
+  <a style="text-decoration:none,margin-right:10px" href="https://linkedin.com/in/nahid-hossain-05" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -30,7 +30,7 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://stackoverflow.com/users/nahid-hossain" target="blank"
+  <a style="text-decoration:none,margin-right:10px" href="https://stackoverflow.com/users/nahid-hossain" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
@@ -38,7 +38,7 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://www.hackerrank.com/nahidhossain351" target="blank"
+  <a style="text-decoration:none,margin-right:10px" href="https://www.hackerrank.com/nahidhossain351" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
@@ -46,7 +46,7 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://www.leetcode.com/nahid90" target="blank"
+  <a style="text-decoration:none,margin-right:10px" href="https://www.leetcode.com/nahid90" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
