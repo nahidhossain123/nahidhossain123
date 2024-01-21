@@ -13,8 +13,10 @@
   />
 </p>
 
-- 🌱 I’m currently learning **Next JS** - 💬 Ask me about **React JS, React
-Native** - 📫 How to reach me **nahid96hossain@gmail.com**
+- 🔭 I’m currently working on **Aspyrer.com**
+- 🌱 I’m currently learning **Next JS**
+- 💬 Ask me about **React JS, React Native** 
+- 📫 How to reach me **nahid96hossain@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
