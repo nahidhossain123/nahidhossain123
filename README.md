@@ -8,6 +8,8 @@
 
 <p align="left">
   <img
+    align="right"
+    width="300"
     src="https://komarev.com/ghpvc/?username=nahidhossain123&label=Profile%20views&color=0e75b6&style=flat"
     alt="nahidhossain123"
   />
