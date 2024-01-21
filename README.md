@@ -2,14 +2,14 @@
 <h1 align="center">Hi 👋, I'm Nahid Hossain</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img
+   align="right"
+    width="300"
   src="./coding.gif"
   alt="coding"
 />
 
 <p align="left">
   <img
-    align="right"
-    width="300"
     src="https://komarev.com/ghpvc/?username=nahidhossain123&label=Profile%20views&color=0e75b6&style=flat"
     alt="nahidhossain123"
   />
